@@ -10,11 +10,6 @@
     "issues": "https://github.com/kubeecms/ksvgs/issues/",
     "forum": "https://discourse.kubee.com/"
   },
-  "autoload": {
-    "psr-4": {
-      "Kubeecms\\ksvgs\\": "src/"
-    }
-  },
   "require": {
     "php": ">=7.0.0"
   },
